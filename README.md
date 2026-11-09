@@ -3,11 +3,6 @@
 
 Aplicación web desarrollada como proyecto académico de **Desarrollo de Software (UTN FRC)**. Permite administrar un catálogo de artículos mediante una interfaz en **React** conectada a una **API REST** implementada con **Node.js y Express**.
 
-## Vista previa
-
-![Pantalla principal](docs/pantalla-principal.png)
-
-![Listado de artículos](docs/listado-articulos.png)
 
 ## Funcionalidades
 
